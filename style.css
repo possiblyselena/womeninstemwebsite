@@ -1,0 +1,18 @@
+html {
+    color: #5032a8;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#panda {
+    width: 500px;
+    border-radius: 100px;
+    opacity: 0.6;
+    transition: 1s;
+}
+
+#panda:hover {
+    opacity: 1;
+}
